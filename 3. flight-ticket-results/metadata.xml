@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<frame id="1:377" name="Flight Ticket Results" x="-415" y="549" width="375" height="812">
+  <frame id="1:378" name="Status Bar" x="0" y="0" width="375" height="44">
+    <frame id="1:379" name="Notch" x="0" y="0" width="375" height="30">
+      <vector id="1:380" name="Subtract" x="77" y="0" width="44" height="30" hidden="true" />
+      <rounded-rectangle id="1:381" name="Rectangle 11" x="121" y="0" width="133" height="30" hidden="true" />
+      <vector id="1:382" name="Subtract" x="298" y="0" width="44" height="30" hidden="true" />
+    </frame>
+    <frame id="1:383" name="Status Icons" x="292" y="16" width="69" height="14">
+      <frame id="1:384" name="Network Signal / Light" x="0" y="0" width="20" height="14" />
+      <frame id="1:393" name="WiFi Signal / Light" x="24" y="0" width="16" height="14" />
+      <frame id="1:397" name="Battery / Light" x="44" y="0" width="25" height="14" />
+    </frame>
+    <frame id="1:407" name="Indicator" x="298" y="8" width="6" height="6" />
+    <frame id="1:409" name="Time / Light" x="21" y="12" width="54" height="21">
+      <frame id="1:410" name="9:41" x="11" y="3" width="33" height="15" />
+    </frame>
+  </frame>
+  <frame id="1:412" name="Section" x="0" y="44" width="375" height="919">
+    <frame id="1:413" name="Container" x="-17.5" y="8" width="410" height="887">
+      <frame id="1:414" name="Content" x="0" y="0" width="410" height="887">
+        <frame id="1:415" name="top-bar" x="17.5" y="0" width="375" height="70">
+          <frame id="1:416" name="ic-back" x="24" y="0" width="24" height="24" />
+          <frame id="1:419" name="content" x="60" y="0" width="291" height="54">
+            <frame id="1:420" name="title" x="0" y="0" width="291" height="24">
+              <text id="1:421" name="Jakarta (CGK)" x="15" y="0" width="106" height="24" />
+              <frame id="1:422" name="ic-arrow" x="129" y="4" width="16" height="16" />
+              <text id="1:425" name="Yogyakarta (YIA)" x="153" y="0" width="123" height="24" />
+            </frame>
+            <frame id="1:426" name="description" x="0" y="32" width="291" height="22">
+              <text id="1:427" name="1 Passenger" x="71" y="0" width="74" height="22" />
+              <ellipse id="1:428" name="point" x="153" y="9" width="4" height="4" />
+              <text id="1:429" name="Ekonomi" x="165" y="0" width="55" height="22" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:430" name="date-group" x="0" y="94" width="410" height="33">
+          <frame id="1:431" name="date-active" x="35" y="0" width="81.75" height="33">
+            <frame id="1:432" name="date" x="0" y="0" width="81.75" height="22">
+              <text id="1:433" name="Fri, 24 Feb" x="0" y="0" width="81.75" height="22" />
+            </frame>
+            <rounded-rectangle id="1:434" name="active-bar" x="6.875" y="30" width="68" height="3" />
+          </frame>
+          <frame id="1:435" name="date" x="132.75" y="0" width="81.75" height="22">
+            <text id="1:436" name="Sat, 25 Feb" x="0" y="0" width="81.75" height="22" />
+          </frame>
+          <frame id="1:437" name="date" x="230.5" y="0" width="81.75" height="22">
+            <text id="1:438" name="Sun, 26 Feb" x="0" y="0" width="81.75" height="22" />
+          </frame>
+          <frame id="1:439" name="date" x="328.25" y="0" width="81.75" height="22">
+            <text id="1:440" name="Mon, 27 Feb" x="0" y="0" width="81.75" height="22" />
+          </frame>
+        </frame>
+        <frame id="1:441" name="ticket-group" x="41.5" y="151" width="327" height="736">
+          <frame id="1:442" name="ticket" x="0" y="0" width="327" height="172">
+            <frame id="1:443" name="logo-price" x="12" y="12" width="303" height="50">
+              <frame id="1:444" name="logo" x="0" y="0" width="151.5" height="50">
+                <rounded-rectangle id="1:445" name="img-logo" x="0" y="9" width="57.72549057006836" height="32" />
+              </frame>
+              <frame id="1:446" name="price" x="151.5" y="0" width="151.5" height="50">
+                <text id="1:447" name="price-tag" x="0" y="0" width="151.5" height="24" />
+                <text id="1:448" name="description" x="0" y="28" width="151.5" height="22" />
+              </frame>
+            </frame>
+            <line id="1:449" name="divider" x="12" y="74" width="303" height="0" />
+            <frame id="1:450" name="content" x="12" y="86" width="303" height="74">
+              <frame id="1:451" name="departure" x="0" y="0" width="151.5" height="74">
+                <text id="1:452" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:453" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:454" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:455" name="arrival" x="151.5" y="0" width="151.5" height="74">
+                <text id="1:456" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:457" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:458" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:459" name="duration" x="91" y="38" width="121" height="42">
+                <frame id="1:460" name="point-group" x="0" y="0" width="121" height="6">
+                  <ellipse id="1:461" name="point" x="0" y="0" width="6" height="6" />
+                  <line id="1:462" name="divider" x="6" y="3" width="109" height="0" />
+                  <ellipse id="1:463" name="point" x="115" y="0" width="6" height="6" />
+                  <frame id="1:464" name="ic-plane" x="50" y="-7" width="20" height="20" />
+                </frame>
+                <text id="1:467" name="duration-time" x="0" y="22" width="121" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:468" name="ticket" x="0" y="188" width="327" height="172">
+            <frame id="1:469" name="logo-price" x="12" y="12" width="303" height="50">
+              <frame id="1:470" name="logo" x="0" y="0" width="151.5" height="50">
+                <rounded-rectangle id="1:471" name="img-logo" x="0" y="9" width="52.22011184692383" height="32" />
+              </frame>
+              <frame id="1:472" name="price" x="151.5" y="0" width="151.5" height="50">
+                <text id="1:473" name="price-tag" x="0" y="0" width="151.5" height="24" />
+                <text id="1:474" name="description" x="0" y="28" width="151.5" height="22" />
+              </frame>
+            </frame>
+            <line id="1:475" name="divider" x="12" y="74" width="303" height="0" />
+            <frame id="1:476" name="content" x="12" y="86" width="303" height="74">
+              <frame id="1:477" name="departure" x="0" y="0" width="151.5" height="74">
+                <text id="1:478" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:479" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:480" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:481" name="arrival" x="151.5" y="0" width="151.5" height="74">
+                <text id="1:482" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:483" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:484" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:485" name="duration" x="91" y="38" width="121" height="42">
+                <frame id="1:486" name="point-group" x="0" y="0" width="121" height="6">
+                  <ellipse id="1:487" name="point" x="0" y="0" width="6" height="6" />
+                  <line id="1:488" name="divider" x="6" y="3" width="109" height="0" />
+                  <ellipse id="1:489" name="point" x="115" y="0" width="6" height="6" />
+                  <frame id="1:490" name="ic-plane" x="50" y="-7" width="20" height="20" />
+                </frame>
+                <text id="1:493" name="duration-time" x="0" y="22" width="121" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:494" name="ticket" x="0" y="376" width="327" height="172">
+            <frame id="1:495" name="logo-price" x="12" y="12" width="303" height="50">
+              <frame id="1:496" name="logo" x="0" y="0" width="151.5" height="50">
+                <rounded-rectangle id="1:497" name="img-logo" x="0" y="9" width="64" height="32" />
+              </frame>
+              <frame id="1:498" name="price" x="151.5" y="0" width="151.5" height="50">
+                <text id="1:499" name="price" x="0" y="0" width="151.5" height="24" />
+                <text id="1:500" name="description" x="0" y="28" width="151.5" height="22" />
+              </frame>
+            </frame>
+            <line id="1:501" name="divider" x="12" y="74" width="303" height="0" />
+            <frame id="1:502" name="content" x="12" y="86" width="303" height="74">
+              <frame id="1:503" name="departure" x="0" y="0" width="151.5" height="74">
+                <text id="1:504" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:505" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:506" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:507" name="arrival" x="151.5" y="0" width="151.5" height="74">
+                <text id="1:508" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:509" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:510" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:511" name="duration" x="91" y="38" width="121" height="42">
+                <frame id="1:512" name="point-group" x="0" y="0" width="121" height="6">
+                  <ellipse id="1:513" name="point" x="0" y="0" width="6" height="6" />
+                  <line id="1:514" name="divider" x="6" y="3" width="109" height="0" />
+                  <ellipse id="1:515" name="point" x="115" y="0" width="6" height="6" />
+                  <frame id="1:516" name="ic-plane" x="50" y="-7" width="20" height="20" />
+                </frame>
+                <text id="1:519" name="duration-time" x="0" y="22" width="121" height="20" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:520" name="ticket" x="0" y="564" width="327" height="172">
+            <frame id="1:521" name="logo-price" x="12" y="12" width="303" height="50">
+              <frame id="1:522" name="logo" x="0" y="0" width="151.5" height="50">
+                <rounded-rectangle id="1:523" name="img-logo" x="0" y="13" width="57.908851623535156" height="24" />
+              </frame>
+              <frame id="1:524" name="price" x="151.5" y="0" width="151.5" height="50">
+                <text id="1:525" name="price-tag" x="0" y="0" width="151.5" height="24" />
+                <text id="1:526" name="description" x="0" y="28" width="151.5" height="22" />
+              </frame>
+            </frame>
+            <line id="1:527" name="divider" x="12" y="74" width="303" height="0" />
+            <frame id="1:528" name="content" x="12" y="86" width="303" height="74">
+              <frame id="1:529" name="departure" x="0" y="0" width="151.5" height="74">
+                <text id="1:530" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:531" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:532" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:533" name="arrival" x="151.5" y="0" width="151.5" height="74">
+                <text id="1:534" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:535" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:536" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:537" name="duration" x="91" y="38" width="121" height="42">
+                <frame id="1:538" name="point-group" x="0" y="0" width="121" height="6">
+                  <ellipse id="1:539" name="point" x="0" y="0" width="6" height="6" />
+                  <line id="1:540" name="divider" x="6" y="3" width="109" height="0" />
+                  <ellipse id="1:541" name="point" x="115" y="0" width="6" height="6" />
+                  <frame id="1:542" name="ic-plane" x="50" y="-7" width="20" height="20" />
+                </frame>
+                <text id="1:545" name="duration-time" x="0" y="22" width="121" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:546" name="sort-filter" x="113" y="740" width="150" height="48">
+    <frame id="1:547" name="title" x="18.5" y="12" width="113" height="24">
+      <frame id="1:548" name="ic-filter" x="0" y="0" width="24" height="24" />
+      <text id="1:550" name="text" x="36" y="1" width="77" height="22" />
+    </frame>
+  </frame>
+</frame>
