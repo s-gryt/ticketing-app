@@ -1,0 +1,71 @@
+<frame id="1:1449" name="Section" x="0" y="44" width="375" height="590">
+  <frame id="1:1450" name="Container" x="24" y="24" width="327" height="542">
+    <frame id="1:1451" name="Content" x="0" y="0" width="327" height="542">
+      <frame id="1:1452" name="top-bar" x="0" y="0" width="327" height="24">
+        <frame id="1:1453" name="ic-back" x="0" y="0" width="24" height="24" />
+        <text id="1:1456" name="title" x="36" y="0" width="291" height="24" />
+      </frame>
+      <frame id="1:1457" name="payment-status" x="0" y="48" width="327" height="494">
+        <frame id="1:1458" name="success" x="16" y="16" width="295" height="144">
+          <frame id="1:1459" name="ic-success" x="97.5" y="0" width="100" height="100" />
+          <text id="1:1461" name="title" x="0" y="116" width="295" height="28" />
+        </frame>
+        <line id="1:1462" name="divider" x="16" y="184" width="295" height="0" />
+        <frame id="1:1463" name="payment-details" x="16" y="208" width="295" height="174">
+          <frame id="1:1464" name="detail-group" x="0" y="0" width="147.5" height="174">
+            <frame id="1:1465" name="invoice" x="0" y="0" width="147.5" height="50">
+              <text id="1:1466" name="text" x="0" y="0" width="147.5" height="22" />
+              <text id="1:1467" name="inv-number" x="0" y="26" width="147.5" height="24" />
+            </frame>
+            <frame id="1:1468" name="date" x="0" y="62" width="147.5" height="50">
+              <text id="1:1469" name="text" x="0" y="0" width="147.5" height="22" />
+              <text id="1:1470" name="date" x="0" y="26" width="147.5" height="24" />
+            </frame>
+            <frame id="1:1471" name="amount" x="0" y="124" width="147.5" height="50">
+              <text id="1:1472" name="text" x="0" y="0" width="147.5" height="22" />
+              <text id="1:1473" name="price-tag" x="0" y="26" width="147.5" height="24" />
+            </frame>
+          </frame>
+          <frame id="1:1474" name="detail-group" x="147.5" y="0" width="147.5" height="174">
+            <frame id="1:1475" name="payment-method" x="0" y="0" width="147.5" height="50">
+              <text id="1:1476" name="text" x="0" y="0" width="147.5" height="22" />
+              <text id="1:1477" name="payment-method" x="0" y="26" width="147.5" height="24" />
+            </frame>
+            <frame id="1:1478" name="time" x="0" y="62" width="147.5" height="50">
+              <text id="1:1479" name="text" x="0" y="0" width="147.5" height="22" />
+              <text id="1:1480" name="time" x="0" y="26" width="147.5" height="24" />
+            </frame>
+            <frame id="1:1481" name="status" x="0" y="124" width="147.5" height="50">
+              <text id="1:1482" name="text" x="0" y="0" width="147.5" height="22" />
+              <text id="1:1483" name="status" x="0" y="26" width="147.5" height="24" />
+            </frame>
+          </frame>
+        </frame>
+        <line id="1:1484" name="divider" x="16" y="406" width="295" height="0" />
+        <frame id="1:1485" name="cta-download" x="16" y="430" width="295" height="48">
+          <frame id="1:1486" name="ic-download" x="72.5" y="14" width="20" height="20" />
+          <text id="1:1490" name="Download Invoice" x="108.5" y="13" width="114" height="22" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+</frame>
+<frame id="1:1491" name="Status Bar" x="0" y="0" width="375" height="44">
+  <frame id="1:1492" name="Notch" x="0" y="0" width="375" height="30">
+    <vector id="1:1493" name="Subtract" x="77" y="0" width="44" height="30" hidden="true" />
+    <rounded-rectangle id="1:1494" name="Rectangle 11" x="121" y="0" width="133" height="30" hidden="true" />
+    <vector id="1:1495" name="Subtract" x="298" y="0" width="44" height="30" hidden="true" />
+  </frame>
+  <frame id="1:1496" name="Status Icons" x="292" y="16" width="69" height="14">
+    <frame id="1:1497" name="Network Signal / Light" x="0" y="0" width="20" height="14" />
+    <frame id="1:1506" name="WiFi Signal / Light" x="24" y="0" width="16" height="14" />
+    <frame id="1:1510" name="Battery / Light" x="44" y="0" width="25" height="14" />
+  </frame>
+  <frame id="1:1520" name="Indicator" x="298" y="8" width="6" height="6" />
+  <frame id="1:1522" name="Time / Light" x="21" y="12" width="54" height="21">
+    <frame id="1:1523" name="9:41" x="11" y="3" width="33" height="15" />
+  </frame>
+</frame>
+<frame id="1:1447" name="cta-back" x="24" y="740" width="327" height="48">
+  <text id="1:1448" name="Return to Homepage" x="16" y="13" width="295" height="22" />
+</frame>
