@@ -1,0 +1,114 @@
+<frame id="1:1168" name="Flight Check Out Detail" x="830" y="549" width="375" height="812">
+  <frame id="1:1169" name="Section" x="0" y="44" width="375" height="724">
+    <frame id="1:1170" name="Container" x="0" y="8" width="375" height="692">
+      <frame id="1:1171" name="Content" x="0" y="0" width="375" height="692">
+        <frame id="1:1172" name="top-bar" x="0" y="0" width="375" height="40">
+          <frame id="1:1173" name="ic-back" x="24" y="0" width="24" height="24" />
+          <text id="1:1176" name="title" x="60" y="0" width="291" height="24" />
+        </frame>
+        <frame id="1:1177" name="alert-time" x="24" y="64" width="327" height="48">
+          <frame id="1:1178" name="ic-clock" x="12" y="14" width="20" height="20" />
+          <text id="1:1181" name="title" x="44" y="13" width="271" height="22" />
+        </frame>
+        <frame id="1:1182" name="trip-detail" x="24" y="136" width="327" height="194">
+          <frame id="1:1183" name="title" x="0" y="0" width="327" height="24">
+            <text id="1:1184" name="Your Trip" x="0" y="0" width="327" height="24" />
+          </frame>
+          <frame id="1:1185" name="ticket" x="0" y="40" width="327" height="154">
+            <frame id="1:1186" name="logo-cta" x="12" y="12" width="303" height="32">
+              <rounded-rectangle id="1:1187" name="img-logo" x="0" y="0" width="52.22011184692383" height="32" />
+              <frame id="1:1188" name="cta-viewdetails" x="52.22011184692383" y="5" width="250.77989196777344" height="22">
+                <text id="1:1189" name="View Details" x="0" y="0" width="250.77989196777344" height="22" />
+              </frame>
+            </frame>
+            <line id="1:1190" name="divider" x="12" y="56" width="303" height="0" />
+            <frame id="1:1191" name="content" x="12" y="68" width="303" height="74">
+              <frame id="1:1192" name="departure" x="0" y="0" width="151.5" height="74">
+                <text id="1:1193" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:1194" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:1195" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:1196" name="arrival" x="151.5" y="0" width="151.5" height="74">
+                <text id="1:1197" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:1198" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:1199" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:1200" name="duration" x="91" y="38" width="121" height="42">
+                <frame id="1:1201" name="point-group" x="0" y="0" width="121" height="6">
+                  <ellipse id="1:1202" name="point" x="0" y="0" width="6" height="6" />
+                  <line id="1:1203" name="divider" x="6" y="3" width="109" height="0" />
+                  <ellipse id="1:1204" name="point" x="115" y="0" width="6" height="6" />
+                  <frame id="1:1205" name="ic-plane" x="50" y="-7" width="20" height="20" />
+                </frame>
+                <text id="1:1208" name="duration-time" x="0" y="22" width="121" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1209" name="passenger-list" x="24" y="354" width="327" height="118">
+          <frame id="1:1210" name="title" x="0" y="0" width="327" height="24">
+            <text id="1:1211" name="Passenger List" x="0" y="0" width="327" height="24" />
+          </frame>
+          <frame id="1:1212" name="content" x="0" y="40" width="327" height="78">
+            <frame id="1:1213" name="data" x="12" y="12" width="203" height="54">
+              <text id="1:1214" name="passenger-name" x="0" y="0" width="203" height="24" />
+              <frame id="1:1215" name="description" x="0" y="32" width="203" height="22">
+                <text id="1:1216" name="class" x="0" y="0" width="59" height="22" />
+                <ellipse id="1:1217" name="point" x="71" y="9" width="4" height="4" />
+                <text id="1:1218" name="no-seat" x="87" y="0" width="18" height="22" />
+              </frame>
+            </frame>
+            <frame id="1:1219" name="cta-seat" x="227" y="25" width="88" height="28">
+              <text id="1:1220" name="Change Seat" x="8" y="4" width="72" height="20" />
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1221" name="protect-trip" x="24" y="496" width="327" height="150">
+          <frame id="1:1222" name="title" x="0" y="0" width="327" height="24">
+            <frame id="1:1223" name="checkbox" x="0" y="4" width="16" height="16" />
+            <text id="1:1224" name="title" x="28" y="0" width="143.5" height="24" />
+            <text id="1:1225" name="price-tag" x="183.5" y="0" width="143.5" height="24" />
+          </frame>
+          <frame id="1:1226" name="content-group" x="0" y="40" width="327" height="110">
+            <frame id="1:1227" name="content" x="12" y="12" width="303" height="86">
+              <frame id="1:1228" name="ic-shield" x="0" y="0" width="24" height="24" />
+              <frame id="1:1230" name="text-content" x="36" y="0" width="267" height="86">
+                <text id="1:1231" name="title" x="0" y="0" width="267" height="22" />
+                <text id="1:1232" name="description" x="0" y="26" width="267" height="60" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1233" name="terms-conditions" x="24" y="670" width="327" height="22">
+          <frame id="1:1234" name="checkbox" x="0" y="3" width="16" height="16" />
+          <text id="1:1236" name="text" x="28" y="0" width="299" height="22" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:1237" name="cta-group" x="0" y="732" width="375" height="80">
+    <frame id="1:1238" name="price" x="24" y="17" width="155.5" height="46">
+      <text id="1:1239" name="price-tag" x="0" y="0" width="155.5" height="24" />
+      <text id="1:1240" name="description" x="0" y="24" width="155.5" height="22" />
+    </frame>
+    <frame id="1:1241" name="cta-payment" x="195.5" y="16" width="155.5" height="48">
+      <text id="1:1242" name="Proceed to Payment" x="10.25" y="13" width="135" height="22" />
+    </frame>
+  </frame>
+  <frame id="1:1243" name="Status Bar" x="0" y="0" width="375" height="44">
+    <frame id="1:1244" name="Notch" x="0" y="0" width="375" height="30">
+      <vector id="1:1245" name="Subtract" x="77" y="0" width="44" height="30" hidden="true" />
+      <rounded-rectangle id="1:1246" name="Rectangle 11" x="121" y="0" width="133" height="30" hidden="true" />
+      <vector id="1:1247" name="Subtract" x="298" y="0" width="44" height="30" hidden="true" />
+    </frame>
+    <frame id="1:1248" name="Status Icons" x="292" y="16" width="69" height="14">
+      <frame id="1:1249" name="Network Signal / Light" x="0" y="0" width="20" height="14" />
+      <frame id="1:1258" name="WiFi Signal / Light" x="24" y="0" width="16" height="14" />
+      <frame id="1:1262" name="Battery / Light" x="44" y="0" width="25" height="14" />
+    </frame>
+    <frame id="1:1272" name="Indicator" x="298" y="8" width="6" height="6" />
+    <frame id="1:1274" name="Time / Light" x="21" y="12" width="54" height="21">
+      <frame id="1:1275" name="9:41" x="11" y="3" width="33" height="15" />
+    </frame>
+  </frame>
+</frame>
