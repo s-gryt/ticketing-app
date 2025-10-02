@@ -1,0 +1,162 @@
+<frame id="1:1277" name="Payment" x="1245" y="549" width="375" height="812">
+  <frame id="1:1278" name="Section" x="0" y="44" width="375" height="812">
+    <frame id="1:1279" name="Container" x="0" y="8" width="375" height="780">
+      <frame id="1:1280" name="Content" x="0" y="0" width="375" height="780">
+        <frame id="1:1281" name="top-bar" x="0" y="0" width="375" height="40">
+          <frame id="1:1282" name="ic-back" x="24" y="0" width="24" height="24" />
+          <text id="1:1285" name="title" x="60" y="0" width="291" height="24" />
+        </frame>
+        <frame id="1:1286" name="alert-time" x="24" y="64" width="327" height="48">
+          <frame id="1:1287" name="ic-clock" x="12" y="14" width="20" height="20" />
+          <text id="1:1290" name="title" x="44" y="13" width="271" height="22" />
+        </frame>
+        <frame id="1:1291" name="trip-detail" x="24" y="136" width="327" height="194">
+          <frame id="1:1292" name="title" x="0" y="0" width="327" height="24">
+            <text id="1:1293" name="Your Trip" x="0" y="0" width="327" height="24" />
+          </frame>
+          <frame id="1:1294" name="ticket" x="0" y="40" width="327" height="154">
+            <frame id="1:1295" name="logo-cta" x="12" y="12" width="303" height="32">
+              <rounded-rectangle id="1:1296" name="img-logo" x="0" y="0" width="52.22011184692383" height="32" />
+              <frame id="1:1297" name="cta-viewdetails" x="52.22011184692383" y="5" width="250.77989196777344" height="22">
+                <text id="1:1298" name="View Details" x="0" y="0" width="250.77989196777344" height="22" />
+              </frame>
+            </frame>
+            <line id="1:1299" name="divider" x="12" y="56" width="303" height="0" />
+            <frame id="1:1300" name="content" x="12" y="68" width="303" height="74">
+              <frame id="1:1301" name="departure" x="0" y="0" width="151.5" height="74">
+                <text id="1:1302" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:1303" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:1304" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:1305" name="arrival" x="151.5" y="0" width="151.5" height="74">
+                <text id="1:1306" name="city-name" x="0" y="0" width="151.5" height="22" />
+                <text id="1:1307" name="time" x="0" y="26" width="151.5" height="24" />
+                <text id="1:1308" name="date" x="0" y="54" width="151.5" height="20" />
+              </frame>
+              <frame id="1:1309" name="duration" x="91" y="38" width="121" height="42">
+                <frame id="1:1310" name="point-group" x="0" y="0" width="121" height="6">
+                  <ellipse id="1:1311" name="point" x="0" y="0" width="6" height="6" />
+                  <line id="1:1312" name="divider" x="6" y="3" width="109" height="0" />
+                  <ellipse id="1:1313" name="point" x="115" y="0" width="6" height="6" />
+                  <frame id="1:1314" name="ic-plane" x="50" y="-7" width="20" height="20" />
+                </frame>
+                <text id="1:1317" name="duration-time" x="0" y="22" width="121" height="20" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+        <frame id="1:1318" name="payment-method" x="24" y="354" width="327" height="426">
+          <frame id="1:1319" name="title" x="0" y="0" width="327" height="24">
+            <text id="1:1320" name="Payment Method" x="0" y="0" width="327" height="24" />
+          </frame>
+          <frame id="1:1321" name="payment-group" x="0" y="40" width="327" height="386">
+            <frame id="1:1322" name="paylater" x="12" y="12" width="303" height="28">
+              <frame id="1:1323" name="ic-wallet" x="0" y="2" width="24" height="24" />
+              <frame id="1:1326" name="title" x="36" y="3" width="164" height="22">
+                <text id="1:1327" name="Paylater" x="0" y="0" width="164" height="22" />
+              </frame>
+              <frame id="1:1328" name="cta-activate" x="212" y="0" width="91" height="28">
+                <text id="1:1329" name="Activate Now" x="8" y="4" width="75" height="20" />
+              </frame>
+            </frame>
+            <frame id="1:1330" name="emoney-group" x="12" y="64" width="303" height="166">
+              <frame id="1:1331" name="ic-money" x="0" y="0" width="24" height="24" />
+              <frame id="1:1338" name="emoney-dropdown" x="36" y="0" width="267" height="166">
+                <frame id="1:1339" name="title" x="0" y="0" width="267" height="22">
+                  <frame id="1:1340" name="subtitle" x="0" y="0" width="239" height="22">
+                    <text id="1:1341" name="e-Money" x="0" y="0" width="239" height="22" />
+                  </frame>
+                  <frame id="1:1342" name="ic-up" x="267" y="3" width="16" height="16" />
+                </frame>
+                <frame id="1:1345" name="emoney" x="0" y="34" width="267" height="132">
+                  <frame id="1:1346" name="paypal" x="0" y="0" width="267" height="24">
+                    <frame id="1:1347" name="img-logo" x="0" y="0" width="24" height="24">
+                      <rounded-rectangle id="1:1348" name="img-logo" x="4" y="4" width="16" height="16" />
+                    </frame>
+                    <frame id="1:1349" name="title" x="36" y="1" width="203" height="22">
+                      <text id="1:1350" name="Paypal" x="0" y="0" width="203" height="22" />
+                    </frame>
+                    <frame id="1:1351" name="checkbox" x="251" y="4" width="16" height="16" />
+                  </frame>
+                  <frame id="1:1352" name="gopay" x="0" y="36" width="267" height="24">
+                    <frame id="1:1353" name="img-logo" x="0" y="0" width="24" height="24">
+                      <rounded-rectangle id="1:1354" name="img-logo" x="4" y="4" width="16" height="16" />
+                    </frame>
+                    <frame id="1:1355" name="title" x="36" y="1" width="203" height="22">
+                      <text id="1:1356" name="Gopay" x="0" y="0" width="203" height="22" />
+                    </frame>
+                    <frame id="1:1357" name="checkbox" x="251" y="4" width="16" height="16" />
+                  </frame>
+                  <frame id="1:1359" name="apple-pay" x="0" y="72" width="267" height="24">
+                    <frame id="1:1360" name="img-logo" x="0" y="0" width="24" height="24">
+                      <rounded-rectangle id="1:1361" name="img-logo" x="5.48828125" y="4" width="13.0234375" height="16" />
+                    </frame>
+                    <frame id="1:1362" name="title" x="36" y="1" width="203" height="22">
+                      <text id="1:1363" name="Apple Pay" x="0" y="0" width="203" height="22" />
+                    </frame>
+                    <frame id="1:1364" name="checkbox" x="251" y="4" width="16" height="16" />
+                  </frame>
+                  <frame id="1:1365" name="amazon-pay" x="0" y="108" width="267" height="24">
+                    <frame id="1:1366" name="img-logo" x="0" y="0" width="24" height="24">
+                      <rounded-rectangle id="1:1367" name="img-logo" x="4" y="4" width="16" height="16" />
+                    </frame>
+                    <frame id="1:1368" name="title" x="36" y="1" width="203" height="22">
+                      <text id="1:1369" name="Amazon Pay" x="0" y="0" width="203" height="22" />
+                    </frame>
+                    <frame id="1:1370" name="checkbox" x="251" y="4" width="16" height="16" />
+                  </frame>
+                </frame>
+              </frame>
+            </frame>
+            <frame id="1:1371" name="virtual-account" x="12" y="254" width="303" height="24">
+              <frame id="1:1372" name="ic-phone" x="0" y="0" width="24" height="24" />
+              <frame id="1:1376" name="title" x="36" y="1" width="239" height="22">
+                <text id="1:1377" name="Virtual Account" x="0" y="0" width="239" height="22" />
+              </frame>
+              <frame id="1:1378" name="dropdown" x="287" y="20" width="16" height="16" />
+            </frame>
+            <frame id="1:1381" name="bank" x="12" y="302" width="303" height="24">
+              <frame id="1:1382" name="ic-bank" x="0" y="0" width="24" height="24" />
+              <frame id="1:1390" name="title" x="36" y="1" width="239" height="22">
+                <text id="1:1391" name="Bank Transfer" x="0" y="0" width="239" height="22" />
+              </frame>
+              <frame id="1:1392" name="dropdown" x="287" y="20" width="16" height="16" />
+            </frame>
+            <frame id="1:1395" name="credit-card" x="12" y="350" width="303" height="24">
+              <frame id="1:1396" name="ic-card" x="0" y="0" width="24" height="24" />
+              <frame id="1:1401" name="title" x="36" y="1" width="239" height="22">
+                <text id="1:1402" name="Credit Card" x="0" y="0" width="239" height="22" />
+              </frame>
+              <frame id="1:1403" name="dropdown" x="287" y="20" width="16" height="16" />
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:1406" name="cta-group" x="0" y="732" width="375" height="80">
+    <frame id="1:1407" name="price" x="24" y="17" width="155.5" height="46">
+      <text id="1:1408" name="price-tag" x="0" y="0" width="155.5" height="24" />
+      <text id="1:1409" name="description" x="0" y="24" width="155.5" height="22" />
+    </frame>
+    <frame id="1:1410" name="cta-payment" x="195.5" y="16" width="155.5" height="48">
+      <text id="1:1411" name="Pay Now" x="12" y="13" width="131.5" height="22" />
+    </frame>
+  </frame>
+  <frame id="1:1412" name="Status Bar" x="0" y="0" width="375" height="44">
+    <frame id="1:1413" name="Notch" x="0" y="0" width="375" height="30">
+      <vector id="1:1414" name="Subtract" x="77" y="0" width="44" height="30" hidden="true" />
+      <rounded-rectangle id="1:1415" name="Rectangle 11" x="121" y="0" width="133" height="30" hidden="true" />
+      <vector id="1:1416" name="Subtract" x="298" y="0" width="44" height="30" hidden="true" />
+    </frame>
+    <frame id="1:1417" name="Status Icons" x="292" y="16" width="69" height="14">
+      <frame id="1:1418" name="Network Signal / Light" x="0" y="0" width="20" height="14" />
+      <frame id="1:1427" name="WiFi Signal / Light" x="24" y="0" width="16" height="14" />
+      <frame id="1:1431" name="Battery / Light" x="44" y="0" width="25" height="14" />
+    </frame>
+    <frame id="1:1441" name="Indicator" x="298" y="8" width="6" height="6" />
+    <frame id="1:1443" name="Time / Light" x="21" y="12" width="54" height="21">
+      <frame id="1:1444" name="9:41" x="11" y="3" width="33" height="15" />
+    </frame>
+  </frame>
+</frame>
