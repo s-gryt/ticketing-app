@@ -1,0 +1,278 @@
+<frame id="1:794" name="Flight Select Seat" x="415" y="549" width="375" height="812">
+  <frame id="1:795" name="Section" x="0" y="44" width="375" height="816">
+    <frame id="1:796" name="Container" x="0" y="8" width="375" height="784">
+      <frame id="1:797" name="Content" x="0" y="0" width="375" height="784">
+        <frame id="1:798" name="top-bar" x="0" y="0" width="375" height="40">
+          <frame id="1:799" name="ic-back" x="24" y="0" width="24" height="24" />
+          <text id="1:802" name="title" x="60" y="0" width="291" height="24" />
+        </frame>
+        <frame id="1:803" name="alert-time" x="24" y="64" width="327" height="48">
+          <frame id="1:804" name="ic-clock" x="12" y="14" width="20" height="20" />
+          <text id="1:807" name="title" x="44" y="13" width="271" height="22" />
+        </frame>
+        <frame id="1:808" name="passenger" x="24" y="136" width="327" height="82">
+          <frame id="1:809" name="passenger-name" x="12" y="12" width="303" height="24">
+            <text id="1:810" name="1. Cameron Williamson" x="0" y="0" width="275" height="24" />
+            <frame id="1:811" name="ic-success" x="283" y="2" width="20" height="20" />
+          </frame>
+          <frame id="1:814" name="description" x="12" y="48" width="303" height="22">
+            <text id="1:815" name="Class" x="0" y="0" width="59" height="22" />
+            <ellipse id="1:816" name="point" x="71" y="9" width="4" height="4" />
+            <text id="1:817" name="no-seat" x="87" y="0" width="18" height="22" />
+          </frame>
+        </frame>
+        <frame id="1:818" name="seat-desc" x="24" y="242" width="327" height="22">
+          <frame id="1:819" name="available" x="0" y="0" width="93.66666412353516" height="22">
+            <frame id="1:820" name="ic-chair" x="2.333332061767578" y="1" width="20" height="20" />
+            <text id="1:823" name="Available" x="34.33333206176758" y="0" width="57" height="22" />
+          </frame>
+          <frame id="1:824" name="selected" x="116.66666412353516" y="0" width="93.66666412353516" height="22">
+            <frame id="1:825" name="ic-chair" x="2.333332061767578" y="1" width="20" height="20" />
+            <text id="1:828" name="Selected" x="34.33333206176758" y="0" width="57" height="22" />
+          </frame>
+          <frame id="1:829" name="filled" x="233.3333282470703" y="0" width="93.66666412353516" height="22">
+            <frame id="1:830" name="ic-chair" x="14.333332061767578" y="1" width="20" height="20" />
+            <text id="1:833" name="Filled" x="46.33333206176758" y="0" width="33" height="22" />
+          </frame>
+        </frame>
+        <frame id="1:834" name="select-seat" x="48" y="288" width="279" height="496">
+          <frame id="1:835" name="row-1" x="0" y="0" width="279" height="56">
+            <frame id="1:836" name="seat-group" x="0" y="0" width="104" height="56">
+              <frame id="1:837" name="letter" x="0" y="0" width="104" height="24">
+                <text id="1:838" name="A" x="0" y="0" width="24" height="24" />
+                <text id="1:839" name="B" x="40" y="0" width="24" height="24" />
+                <text id="1:840" name="C" x="80" y="0" width="24" height="24" />
+              </frame>
+              <frame id="1:841" name="seat" x="0" y="32" width="104" height="24">
+                <frame id="1:842" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:845" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:848" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:851" name="1" x="120" y="34" width="39" height="22" />
+            <frame id="1:852" name="seat-group" x="175" y="0" width="104" height="56">
+              <frame id="1:853" name="letter" x="0" y="0" width="104" height="24">
+                <text id="1:854" name="D" x="0" y="0" width="24" height="24" />
+                <text id="1:855" name="E" x="40" y="0" width="24" height="24" />
+                <text id="1:856" name="F" x="80" y="0" width="24" height="24" />
+              </frame>
+              <frame id="1:857" name="seat" x="0" y="32" width="104" height="24">
+                <frame id="1:858" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:861" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:864" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:867" name="row-2" x="0" y="72" width="279" height="24">
+            <frame id="1:868" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:869" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:870" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:873" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:876" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:879" name="2" x="120" y="2" width="39" height="22" />
+            <frame id="1:880" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:881" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:882" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:885" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:888" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:891" name="row-3" x="0" y="112" width="279" height="24">
+            <frame id="1:892" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:893" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:894" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:897" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:900" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:903" name="3" x="120" y="2" width="39" height="22" />
+            <frame id="1:904" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:905" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:906" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:909" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:912" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:915" name="row-4" x="0" y="152" width="279" height="24">
+            <frame id="1:916" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:917" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:918" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:921" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:924" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:927" name="4" x="120" y="2" width="39" height="22" />
+            <frame id="1:928" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:929" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:930" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:933" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:936" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:939" name="row-5" x="0" y="192" width="279" height="24">
+            <frame id="1:940" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:941" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:942" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:945" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:948" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:951" name="5" x="120" y="2" width="39" height="22" />
+            <frame id="1:952" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:953" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:954" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:957" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:960" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:963" name="row-6" x="0" y="232" width="279" height="24">
+            <frame id="1:964" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:965" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:966" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:969" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:972" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:975" name="6" x="120" y="2" width="39" height="22" />
+            <frame id="1:976" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:977" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:978" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:981" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:984" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:987" name="row-7" x="0" y="272" width="279" height="24">
+            <frame id="1:988" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:989" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:990" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:993" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:996" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:999" name="7" x="120" y="2" width="39" height="22" />
+            <frame id="1:1000" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:1001" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1002" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1005" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1008" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1011" name="row-8" x="0" y="312" width="279" height="24">
+            <frame id="1:1012" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:1013" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1014" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1017" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1020" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:1023" name="8" x="120" y="2" width="39" height="22" />
+            <frame id="1:1024" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:1025" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1026" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1029" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1032" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1035" name="row-9" x="0" y="352" width="279" height="24">
+            <frame id="1:1036" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:1037" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1038" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1041" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1044" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:1047" name="9" x="120" y="2" width="39" height="22" />
+            <frame id="1:1048" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:1049" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1050" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1053" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1056" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1059" name="row-10" x="0" y="392" width="279" height="24">
+            <frame id="1:1060" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:1061" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1062" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1065" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1068" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:1071" name="10" x="120" y="2" width="39" height="22" />
+            <frame id="1:1072" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:1073" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1074" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1077" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1080" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1083" name="row-11" x="0" y="432" width="279" height="24">
+            <frame id="1:1084" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:1085" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1086" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1089" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1092" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:1095" name="11" x="120" y="2" width="39" height="22" />
+            <frame id="1:1096" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:1097" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1098" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1101" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1104" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <frame id="1:1107" name="row-12" x="0" y="472" width="279" height="24">
+            <frame id="1:1108" name="seat-group" x="0" y="0" width="104" height="24">
+              <frame id="1:1109" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1110" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1113" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1116" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+            <text id="1:1119" name="12" x="120" y="2" width="39" height="22" />
+            <frame id="1:1120" name="seat-group" x="175" y="0" width="104" height="24">
+              <frame id="1:1121" name="seat" x="0" y="0" width="104" height="24">
+                <frame id="1:1122" name="ic-chair" x="0" y="0" width="24" height="24" />
+                <frame id="1:1125" name="ic-chair" x="40" y="0" width="24" height="24" />
+                <frame id="1:1128" name="ic-chair" x="80" y="0" width="24" height="24" />
+              </frame>
+            </frame>
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:1131" name="cta-continue" x="0" y="732" width="375" height="80">
+    <frame id="1:1132" name="cta" x="24" y="16" width="327" height="48">
+      <text id="1:1133" name="Continue" x="12" y="13" width="303" height="22" />
+    </frame>
+  </frame>
+  <frame id="1:1134" name="Status Bar" x="0" y="0" width="375" height="44">
+    <frame id="1:1135" name="Notch" x="0" y="0" width="375" height="30">
+      <vector id="1:1136" name="Subtract" x="77" y="0" width="44" height="30" hidden="true" />
+      <rounded-rectangle id="1:1137" name="Rectangle 11" x="121" y="0" width="133" height="30" hidden="true" />
+      <vector id="1:1138" name="Subtract" x="298" y="0" width="44" height="30" hidden="true" />
+    </frame>
+    <frame id="1:1139" name="Status Icons" x="292" y="16" width="69" height="14">
+      <frame id="1:1140" name="Network Signal / A0Light" x="0" y="0" width="20" height="14" />
+      <frame id="1:1149" name="WiFi Signal / Light" x="24" y="0" width="16" height="14" />
+      <frame id="1:1153" name="Battery / Light" x="44" y="0" width="25" height="14" />
+    </frame>
+    <frame id="1:1163" name="Indicator" x="298" y="8" width="6" height="6" />
+    <frame id="1:1165" name="Time / Light" x="21" y="12" width="54" height="21">
+      <frame id="1:1166" name="9:41" x="11" y="3" width="33" height="15" />
+    </frame>
+  </frame>
+</frame>
