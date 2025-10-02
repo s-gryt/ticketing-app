@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<frame id="1:657" name="Flight Ticket Detail" x="0" y="549" width="375" height="812">
+  <frame id="1:658" name="cta-download" x="24" y="740" width="327" height="48">
+    <text id="1:659" name="Download e-Ticket" x="16" y="13" width="295" height="22" />
+  </frame>
+  <frame id="1:660" name="Section" x="0" y="44" width="375" height="688">
+    <frame id="1:661" name="Container" x="24" y="24" width="327" height="640">
+      <frame id="1:662" name="Content" x="0" y="0" width="327" height="640">
+        <frame id="1:663" name="top-bar" x="0" y="0" width="327" height="24">
+          <frame id="1:664" name="ic-back" x="0" y="0" width="24" height="24" />
+          <text id="1:667" name="title" x="36" y="0" width="291" height="24" />
+        </frame>
+        <frame id="1:668" name="ticket-detail" x="0" y="48" width="327" height="592">
+          <frame id="1:669" name="logo-airline" x="16" y="16" width="295" height="50">
+            <frame id="1:670" name="logo" x="0" y="0" width="139.5" height="50">
+              <rounded-rectangle id="1:671" name="img-logo" x="0" y="0" width="81.59392547607422" height="50" />
+            </frame>
+            <frame id="1:672" name="airline" x="155.5" y="0" width="139.5" height="50">
+              <text id="1:673" name="airline-name" x="0" y="0" width="139.5" height="24" />
+              <text id="1:674" name="class" x="0" y="28" width="139.5" height="22" />
+            </frame>
+          </frame>
+          <line id="1:675" name="divider" x="16" y="90" width="295" height="0" />
+          <frame id="1:676" name="flight-details" x="16" y="114" width="295" height="74">
+            <frame id="1:677" name="departure" x="0" y="0" width="147.5" height="74">
+              <text id="1:678" name="city-name" x="0" y="0" width="147.5" height="22" />
+              <text id="1:679" name="time" x="0" y="26" width="147.5" height="24" />
+              <text id="1:680" name="date" x="0" y="54" width="147.5" height="20" />
+            </frame>
+            <frame id="1:681" name="arrival" x="147.5" y="0" width="147.5" height="74">
+              <text id="1:682" name="city-name" x="0" y="0" width="147.5" height="22" />
+              <text id="1:683" name="time" x="0" y="26" width="147.5" height="24" />
+              <text id="1:684" name="date" x="0" y="54" width="147.5" height="20" />
+            </frame>
+            <frame id="1:685" name="duration" x="87" y="38" width="121" height="42">
+              <frame id="1:686" name="point-group" x="0" y="0" width="121" height="6">
+                <ellipse id="1:687" name="point" x="0" y="0" width="6" height="6" />
+                <line id="1:688" name="divider" x="6" y="3" width="109" height="0" />
+                <ellipse id="1:689" name="point" x="115" y="0" width="6" height="6" />
+                <frame id="1:690" name="ic-plane" x="50" y="-7" width="20" height="20" />
+              </frame>
+              <text id="1:693" name="duration-time" x="0" y="22" width="121" height="20" />
+            </frame>
+          </frame>
+          <line id="1:694" name="divider" x="16" y="212" width="295" height="0" />
+          <frame id="1:695" name="order-details" x="16" y="236" width="295" height="198">
+            <frame id="1:696" name="detail-group" x="0" y="0" width="147.5" height="198">
+              <frame id="1:697" name="name" x="0" y="0" width="147.5" height="74">
+                <text id="1:698" name="text" x="0" y="0" width="147.5" height="22" />
+                <text id="1:699" name="name" x="0" y="26" width="147.5" height="48" />
+              </frame>
+              <frame id="1:700" name="class" x="0" y="86" width="147.5" height="50">
+                <text id="1:701" name="text" x="0" y="0" width="147.5" height="22" />
+                <text id="1:702" name="class" x="0" y="26" width="147.5" height="24" />
+              </frame>
+              <frame id="1:703" name="id-number" x="0" y="148" width="147.5" height="50">
+                <text id="1:704" name="text" x="0" y="0" width="147.5" height="22" />
+                <text id="1:705" name="id-number" x="0" y="26" width="147.5" height="24" />
+              </frame>
+            </frame>
+            <frame id="1:706" name="detail-group" x="147.5" y="12" width="147.5" height="174">
+              <frame id="1:707" name="booking-code" x="0" y="0" width="147.5" height="50">
+                <text id="1:708" name="text" x="0" y="0" width="147.5" height="22" />
+                <text id="1:709" name="booking-code" x="0" y="26" width="147.5" height="24" />
+              </frame>
+              <frame id="1:710" name="seat-number" x="0" y="62" width="147.5" height="50">
+                <text id="1:711" name="text" x="0" y="0" width="147.5" height="22" />
+                <text id="1:712" name="seat-number" x="0" y="26" width="147.5" height="24" />
+              </frame>
+              <frame id="1:713" name="airline-name" x="0" y="124" width="147.5" height="50">
+                <text id="1:714" name="text" x="0" y="0" width="147.5" height="22" />
+                <text id="1:715" name="airline-name" x="0" y="26" width="147.5" height="24" />
+              </frame>
+            </frame>
+          </frame>
+          <line id="1:716" name="divider" x="16" y="458" width="295" height="0" />
+          <frame id="1:717" name="barcode" x="16" y="482" width="295" height="94">
+            <frame id="1:718" name="barcode" x="0" y="0" width="295" height="64">
+              <vector id="1:719" name="Vector" x="0" y="0" width="5.637106895446777" height="64" />
+              <vector id="1:720" name="Vector" x="7.969296932220459" y="0" width="3.340435743331909" height="64" />
+              <vector id="1:721" name="Vector" x="13.397256851196289" y="0" width="9.186687469482422" height="64" />
+              <vector id="1:722" name="Vector" x="24.67343521118164" y="0" width="1.183852195739746" height="64" />
+              <vector id="1:723" name="Vector" x="34.69275665283203" y="0" width="1.671203851699829" height="64" />
+              <vector id="1:724" name="Vector" x="39.77741622924805" y="0" width="4.9406023025512695" height="64" />
+              <vector id="1:725" name="Vector" x="52.09538650512695" y="0" width="0.974703311920166" height="64" />
+              <vector id="1:726" name="Vector" x="56.412498474121094" y="0" width="6.680863857269287" height="64" />
+              <vector id="1:727" name="Vector" x="66.43380737304688" y="0" width="2.0184643268585205" height="64" />
+              <vector id="1:728" name="Vector" x="74.78588104248047" y="0" width="1.392993450164795" height="64" />
+              <vector id="1:729" name="Vector" x="83.137939453125" y="0" width="4.871552467346191" height="64" />
+              <vector id="1:730" name="Vector" x="91.49198913574219" y="0" width="6.680871486663818" height="64" />
+              <vector id="1:731" name="Vector" x="101.5133056640625" y="0" width="1.66923189163208" height="64" />
+              <vector id="1:732" name="Vector" x="108.19416046142578" y="0" width="1.1128263473510742" height="64" />
+              <vector id="1:733" name="Vector" x="111.25836944580078" y="0" width="1.1128263473510742" height="64" />
+              <vector id="1:734" name="Vector" x="116.54623413085938" y="0" width="1.671203851699829" height="64" />
+              <vector id="1:735" name="Vector" x="123.50728607177734" y="0" width="6.1244659423828125" height="64" />
+              <vector id="1:736" name="Vector" x="134.36318969726562" y="0" width="2.2276244163513184" height="64" />
+              <vector id="1:737" name="Vector" x="141.60244750976562" y="0" width="4.593349456787109" height="64" />
+              <vector id="1:738" name="Vector" x="150.7891387939453" y="0" width="1.671203851699829" height="64" />
+              <vector id="1:739" name="Vector" x="158.3065948486328" y="0" width="1.671203851699829" height="64" />
+              <vector id="1:740" name="Vector" x="166.6566925048828" y="0" width="0.8365803956985474" height="64" />
+              <vector id="1:741" name="Vector" x="168.5607147216797" y="0" width="0.8365954756736755" height="64" />
+              <vector id="1:742" name="Vector" x="170.46475219726562" y="0" width="0.8346083760261536" height="64" />
+              <vector id="1:743" name="Vector" x="175.0107421875" y="0" width="3.3384487628936768" height="64" />
+              <vector id="1:744" name="Vector" x="182.3881072998047" y="0" width="5.28984260559082" height="64" />
+              <vector id="1:745" name="Vector" x="191.71290588378906" y="0" width="3.340435743331909" height="64" />
+              <vector id="1:746" name="Vector" x="200.0649871826172" y="0" width="1.6731759309768677" height="64" />
+              <vector id="1:747" name="Vector" x="203.54747009277344" y="0" width="1.671203851699829" height="64" />
+              <vector id="1:748" name="Vector" x="208.41903686523438" y="0" width="1.66923189163208" height="64" />
+              <vector id="1:749" name="Vector" x="215.51820373535156" y="0" width="5.8462629318237305" height="64" />
+              <vector id="1:750" name="Vector" x="226.79238891601562" y="0" width="1.671203851699829" height="64" />
+              <vector id="1:751" name="Vector" x="231.94215393066406" y="0" width="6.4046406745910645" height="64" />
+              <vector id="1:752" name="Vector" x="241.8273162841797" y="0" width="4.593349456787109" height="64" />
+              <vector id="1:753" name="Vector" x="251.43031311035156" y="0" width="2.091465950012207" height="64" />
+              <vector id="1:754" name="Vector" x="260.6170349121094" y="0" width="1.2528986930847168" height="64" />
+              <vector id="1:755" name="Vector" x="265.003173828125" y="0" width="7.101133823394775" height="64" />
+              <vector id="1:756" name="Vector" x="275.2356262207031" y="0" width="1.3219637870788574" height="64" />
+              <vector id="1:757" name="Vector" x="283.585693359375" y="0" width="1.673190951347351" height="64" />
+              <vector id="1:758" name="Vector" x="289.9903259277344" y="0" width="5.009667873382568" height="64" />
+            </frame>
+            <text id="1:759" name="EESBH21200001088" x="0" y="72" width="295" height="22" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="1:760" name="Status Bar" x="0" y="0" width="375" height="44">
+    <frame id="1:761" name="Notch" x="0" y="0" width="375" height="30">
+      <vector id="1:762" name="Subtract" x="77" y="0" width="44" height="30" hidden="true" />
+      <rounded-rectangle id="1:763" name="Rectangle 11" x="121" y="0" width="133" height="30" hidden="true" />
+      <vector id="1:764" name="Subtract" x="298" y="0" width="44" height="30" hidden="true" />
+    </frame>
+    <frame id="1:765" name="Status Icons" x="292" y="16" width="69" height="14">
+      <frame id="1:766" name="Network Signal / Light" x="0" y="0" width="20" height="14" />
+      <frame id="1:775" name="WiFi Signal / Light" x="24" y="0" width="16" height="14" />
+      <frame id="1:779" name="Battery / Light" x="44" y="0" width="25" height="14" />
+    </frame>
+    <frame id="1:789" name="Indicator" x="298" y="8" width="6" height="6" />
+    <frame id="1:791" name="Time / Light" x="21" y="12" width="54" height="21">
+      <frame id="1:792" name="9:41" x="11" y="3" width="33" height="15" />
+    </frame>
+  </frame>
+</frame>
